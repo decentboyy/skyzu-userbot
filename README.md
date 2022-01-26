@@ -1,5 +1,5 @@
 #     𝐒𝐊𝐘𝐙𝐔  -  𝐔𝐒𝐄𝐑𝐁𝐎𝐓​​ 
-
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/decentboyy/skyzu-userbot)
 
 
 </p>
